@@ -1,3 +1,7 @@
+target/
+External Libraries/
+*.sublime*
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
